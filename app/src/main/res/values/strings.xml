@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">S25UltraSpoofer</string>
-    <string name="module_description">Spoof apps to S25 Ultra for extra features</string>
+    <string name="app_name">VOOC Charging Info</string>
+    <string name="module_description">Adds VOOC charging detection and display for OPPO and Realme devices</string>
 </resources>
